@@ -1,2 +1,2 @@
-# rawproxy
-rawproxy for create tcp/udp proxy
+# multiproxy
+multiproxy for create multi-proxy in one application, write in Go.
